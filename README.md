@@ -6,6 +6,8 @@ This repository provides a comprehensive guide to running Retrieval-Augmented Ge
 ![Zephyr7B-beta](https://github.com/taham655/RAG-Locally-with-zephyr7B/blob/8fd561e52824dd265fb8d43200d66cffe7f4eb05/zephyr.png)
 Zephyr 7B Beta is a fine-tuned version of the Mistral 7B model, which has shown exceptional performance on MT-Bench, comparable to 13B chat models. The Hugging Face H4 team has fine-tuned Mistral 7B by removing the RLHF alignment layer and replacing it with DPO, resulting in Zephyr 7B Beta. This model not only outperforms Mistral 7B but also larger models like Vicuna 33B and WizardLM-30B in MMLU and MT-score benchmarks. Currently, Zephyr is a top-ranked 7B model on the Hugging Face leaderboard and competes with, or even surpasses, larger LLMs like Llama-2-70b, particularly in MT-bench performance.
 
+### Benchmark
+![BenchMark](https://github.com/taham655/RAG-Locally-with-zephyr7B/blob/d3170ccdd1c31a228469f70b5705438c072d5630/benchmarks.png)
 
 ### Model Download
 The 5-bit quantized version of Zephyr 7B Beta can be found here: [Zephyr 7B Beta - TheBloke](https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF/blob/main/zephyr-7b-beta.Q5_K_S.gguf).
