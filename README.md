@@ -14,14 +14,14 @@ The 5-bit quantized version of Zephyr 7B Beta can be found here: [Zephyr 7B Beta
 Follow these steps to set up the environment and run the model:
 
 ### Cloning the Repository
-git clone https://github.com/taham655/RAG-Locally-with-zephyr7B.git
+`git clone https://github.com/taham655/RAG-Locally-with-zephyr7B.git`
 
 ### Downloading the Model
 Download the model from [this link](https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF/blob/main/zephyr-7b-beta.Q5_K_S.gguf) and save it in the cloned directory.
 
 ### Installing Requirements
 Install the necessary libraries using:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Usage
 After setting up, modify the `main.py` file to include the file you wish to perform RAG on. Execute the script, and you're all set to run Zephyr 7B Beta locally on your Apple Silicon.
