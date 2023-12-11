@@ -1,5 +1,5 @@
 # RAG Local Setup on Apple Silicon using Zephyr 7B Beta
-[![DEMO](https://github.com/taham655/RAG-Locally-with-zephyr7B/blob/6a9f1c66a71f567ed093a3837cd65b022ceb92a4/running-zephyr.gif)
+[![DEMO](https://www.youtube.com/watch?v=MxJLjSyVpxY)
 
 
 
