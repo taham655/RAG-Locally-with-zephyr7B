@@ -32,4 +32,7 @@ Install the necessary libraries using:
 
 ## Usage
 After setting up, modify the `main.py` file to include the file you wish to perform RAG on. Execute the script, and you're all set to run Zephyr 7B Beta locally on your Apple Silicon.
+
+![code](https://github.com/taham655/RAG-Locally-with-zephyr7B/blob/31c0d8687035a94169b2a5576c86b7ff805a4d64/code.png)
+
  
