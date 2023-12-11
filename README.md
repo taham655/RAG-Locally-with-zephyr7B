@@ -1,5 +1,6 @@
 # RAG Local Setup on Apple Silicon using Zephyr 7B Beta
-![Demo] (URL_of_Thumbnail)]([https://www.youtube.com/watch?v=MxJLjSyVpxY] "DEMO of RAG")
+[![DEMO](URL_of_Thumbnail)](https://www.youtube.com/watch?v=MxJLjSyVpxY)
+
 
 
 This repository provides a comprehensive guide to running Retrieval-Augmented Generation (RAG) locally on Apple Silicon (I am running on macbook pro M1 8 gb ram), specifically using the Zephyr 7B Beta model, a fine-tuned version of Mistral 7B by the Hugging Face team.
