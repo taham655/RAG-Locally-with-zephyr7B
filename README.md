@@ -1,4 +1,5 @@
 # RAG Local Setup on Apple Silicon using Zephyr 7B Beta
+find the demo below
 [![DEMO](https://github.com/taham655/RAG-Locally-with-zephyr7B/blob/c1a58a1c40e8a9e9a18c3ac23a0bffb7be9dfe07/YouTube-Logo.wine.svg)](https://www.youtube.com/watch?v=MxJLjSyVpxY)
 
 
