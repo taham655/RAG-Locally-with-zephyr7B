@@ -36,4 +36,4 @@ After setting up, modify the `main.py` file to include the file you wish to perf
 
 ![code](https://github.com/taham655/RAG-Locally-with-zephyr7B/blob/31c0d8687035a94169b2a5576c86b7ff805a4d64/code.png)
 
- 
+Hope you find it helpful!
